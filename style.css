@@ -1,0 +1,118 @@
+*{
+    font-family: "Nova Round", system-ui;
+}
+
+.maincon{
+    background-image: url("./images/travel-girl.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#top{
+    margin-top: -70px;
+    margin-left: 50rem;
+}
+.head1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 50rem;
+}
+.head2{
+    font-family: "Whisper", cursive;
+    color: white;
+}
+#fname{
+    font-family: "Quicksand", sans-serif;
+    color: orange;
+    font-size: 50px;
+    margin-right: 70rem;
+    display: inline;
+}
+#lname{
+    display: inline;
+    color: black;
+    margin-right: 55rem;
+    margin-top: -44px;
+    top: 20px;
+    font-size: 25px;
+    font-family: "Quicksand", sans-serif;
+}
+#home{
+    width: 100%;
+    height: 110vh;
+    background-color: rgb(36, 30, 30);
+    background-image: url('./images/travel-girl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0px;
+}
+.h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-right: 100px;
+    font-size: 30rem;
+    padding-top: 100px;
+}
+.h2{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    
+}
+.h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-right: 100px;
+    font-size: 40rem;
+}
+.h4{
+    font-family: cursive;
+    text-align: center;
+    margin-right: 50px;
+}
+.head{
+    margin-right: 50px;
+}
+#btn{
+    margin-left: 40rem;
+    margin-top: 5rem;
+}
+.h5{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+.vdo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.Dance{
+    margin-left: -60px;
+    width: 400px;
+}
+.vid{
+    margin-left: -20px;
+}
+#img1{
+    height: 60vh;
+}
+#img2{
+    height: 60vh;
+}
+#img3{
+    height: 60vh;
+}
+#thumb{
+    height: 300px;
+}
+.card{
+    height: 300px;
+}
